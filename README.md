@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 ### 🛠 Technology Stack 🛠
--Python
--C
--Java
+- Python
+- C
+- Java
